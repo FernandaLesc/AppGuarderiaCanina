@@ -8,6 +8,7 @@ Tecnologías usadas en este proyecto:
 * [TMCBeans](https://example.com): Version 1.5.0 
 * [MySQL Workbench](https://example.com): Version 8.0
 * [AdoptOpenJDK11](https://example.com): JAVA version 11
-* [Maven](https://example.com)
+* [Maven](https://example.com): Version 3.0.1
+* 
 
 
